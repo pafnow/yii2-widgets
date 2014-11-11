@@ -1,0 +1,22 @@
+{
+    "name": "pafnow/yii2-widgets",
+    "description": "Pafnow's widgets for Yii2",
+    "keywords": [
+        "yii2",
+        "widgets"
+    ],
+    "authors": [
+        {
+            "name": "Pafnow",
+            "email": ""
+        }
+    ],
+    "require": {
+        "bower-asset/jquery-collagePlus": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "pafnow\\widgets\\": ""
+        }
+    }
+}
