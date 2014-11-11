@@ -1,14 +1,14 @@
 {
     "name": "pafnow/yii2-widgets",
     "description": "Pafnow's widgets for Yii2",
-    "keywords": [
-        "yii2",
-        "widgets"
-    ],
+    "keywords": ["yii2", "widgets"],
+    "homepage": "https://github.com/pafnow/yii2-widgets",
+    "type": "yii2-extension",
+    "license": "BSD 3-Clause",
     "authors": [
         {
             "name": "Pafnow",
-            "email": ""
+            "email": "pafnow@hotmail.com"
         }
     ],
     "require": {
